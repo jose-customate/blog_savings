@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connect Your Backend - Customate</title> 
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="https://github.com/jose-customate/email_signature_logo/blob/main/0803cm.png?raw=true">
+    <meta name="description" content="Customate helps businesses integrate their backend systems with our AI-powered customer service solution. Connect with Salesforce, Zendesk, Shopify and more.">
+  </head>
+  <body>
+    <!-- Top thin black banner with Language Dropdown -->
+    <div class="top-banner">
+      <div class="language-dropdown">
+        <button class="language-button">
+          <i class="fas fa-globe"></i> English <i class="fas fa-chevron-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#" class="active"><i class="fas fa-check"></i> English</a>
+          <a href="#">Español</a>
+          <a href="#">Deutsch</a>
+          <a href="#">Italiano</a>
+          <a href="#">हिंदी</a>
+          <a href="#">Norsk</a>
+          <a href="#">Hrvatski</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Main navigation -->
+    <header class="header">
+      <div class="container-fluid">
+        <nav class="navbar">
+          <div class="navbar-brand">
+            <a href="https://www.customate.ai">
+              <img src="https://github.com/jose-customate/email_signature_logo/blob/main/0803cm.png?raw=true" alt="Customate" class="logo" />
+            </a>
+          </div>
+          
+          <div class="navbar-menu">
+            <div class="navbar-start">
+              <div class="navbar-item has-dropdown">
+                <a class="navbar-link">
+                  <span>Integrations</span>
+                  <i class="fas fa-chevron-down"></i>
+                </a>
+                <div class="navbar-dropdown">
+                  <a href="https://www.customate.ai/integratebackend" class="dropdown-item">
+                    <i class="dropdown-icon backend-icon"></i>
+                    Backend
+                  </a>
+                  <a href="https://www.customate.ai/integratechannels" class="dropdown-item">
+                    <i class="dropdown-icon channels-icon"></i>
+                    Channels
+                  </a>
+                </div>
+              </div>
+              
+              <a href="https://www.customate.ai/pricing" class="navbar-item">Pricing</a>
+              <a href="https://www.customate.ai/blog" class="navbar-item">Blog</a>
+            </div>
+            
+            <div class="navbar-end">
+              <a href="#" class="navbar-item btn-login">Log In</a>
+              <a href="#" class="navbar-item btn-primary">Sign Up</a>
+            </div>
+          </div>
+          
+          <div class="navbar-burger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Blog Content -->
+        <div class="blog-container">
+            <div class="blog-header">
+                <div class="header-content">
+                    <div class="header-left">
+                        <img src="https://raw.githubusercontent.com/jose-customate/CustomatePics/fc54e4adf4323d79fb1a0017bf303057f5442cd9/Blurr7x.svg" alt="AI Customer Support Bots" class="article-image">
+                    </div>
+                    <div class="header-right">
+                        <div class="category">Choosing an AI Customer Support Chatbot </div>
+                        <h1 class="title"> How Much Are You Saving with Customate? </h1>
+                        <div class="date">Last update: May 2025</div>
+                    </div>
+                </div>
+            </div>
+            <div class="article-content">
+
+                <h2 style="margin-top: 70px;"> How Much Are You Saving with Customate? </h2>
+
+                <p> Customer support costs vary widely depending on the business, industry, and location. To establish a baseline, we analyzed the average cost per written or spoken message handled by a human agent in a call or business center. In India, the cost per message is around €0.10, in Latin America, it’s about €0.30, and in Western and Northern Europe, it reaches approximately €1.00. In contrast, a message processed by a Customate chatbot costs only between €0.02 and €0.006, depending on the plan and volume. Even if you're operating in the lowest-cost region, that’s an immediate huge reduction in cost, and the savings only increase in higher-cost markets.  </p>
+
+                <p>
+                If you’re already using a chatbot, you might still be spending more than necessary.  <a href="https://www.customate.ai/blog/aiwins" target="_blank">Many chatbot solutions are inefficient</a>, 
+                failing to resolve issues completely. When that happens, a human agent still has to step in, which means additional costs 
+                in the form of lost productivity or an unnecessarily large staff. Some businesses try to minimize costs by reducing customer interactions altogether, but this approach often backfires. Unanswered questions, unresolved complaints, and a lack of engagement can lead to dissatisfied customers, lost sales, and missed opportunities to improve your product or service. </p>
+
+                <h2 style="margin-top: 80px;"> How Does Customate Compare with Its AI-Powered Customer Support Peers? </h2>
+
+                <p> The biggest competitor charges $1 per resolution. That makes it the best alternative only if every conversation consists of at least 100 AI-Bot messages, which is unrealistic. On average, a resolution only takes five responses, meaning you’d be overpaying. </p>
+
+                <p> Customate offers a better price and better responses. Unlike others, we don’t charge extra for user seats or additional chatbots. You only pay for what you actually need. <a href="https://www.customate.ai/pricing" target="_blank">Click here</a> to learn more. </p>
+
+
+                <h2 style="margin-top: 80px;"> Spending cuts are only the first half of the equation. </h2>
+
+                <p> When considering a Customate subscription, you shouldn’t just focus on the costs you’ll save, but also on the earnings you can generate. </p>
+
+                <p> Customate helps shorten sales cycles, increase customer satisfaction, and free up staff to focus on more productive tasks. It also contributes to building operational automation know-how while providing valuable insights into product quality, sales processes, and other useful feedback directly from customers. </p>
+
+                <p> Finally, the longer you use Customate, the better it gets. Our product is constantly expanding and improving, and your bot quickly adapts to new policies and operational changes, making it an increasingly powerful tool for your business. </p>
+                
+            </div>
+        </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-main">
+          <div class="footer-brand">
+            <img src="https://github.com/jose-customate/email_signature_logo/blob/main/0803cm.png?raw=true" alt="Customate" class="footer-logo" />
+            <p>Automate Customer Support</p>
+          </div>
+        </div>
+        
+        <div class="bottom-bar">
+          <div class="links">
+            <a href="https://www.customate.ai/imprint" target="_blank">Imprint</a>
+            <a href="https://www.customate.ai/tac" target="_blank">Terms &amp; Conditions</a>
+            <a href="https://www.customate.ai/datause" target="_blank">Data Use</a>
+            <a href="#contact" class="contactLink">Contact us</a>
+          </div>
+          <strong>
+            <a href="#feedback" class="feedback">Feedback</a>
+          </strong>
+        </div>
+      </div>
+    </footer>
+  
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3>We Value Your Feedback</h3>
+          <span class="close">&times;</span>
+        </div>
+        <div class="modal-body">
+          <p>Help us improve our product — what can we do better? Also, please tell us about any customer service challenge you face in your business.</p>
+          <textarea id="feedbackInput" placeholder="Your feedback here..."></textarea>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary" id="cancelFeedback">Cancel</button>
+          <button class="btn-primary" id="sendFeedback">Send Feedback</button>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Contact Modal -->
+    <div id="contactModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3>Contact Our Team</h3>
+          <span class="close">&times;</span>
+        </div>
+        <div class="modal-body">
+          <div class="form-group">
+            <label for="contactName">Name</label>
+            <input type="text" id="contactName" placeholder="Your name">
+          </div>
+          <div class="form-group">
+            <label for="contactEmail">Email</label>
+            <input type="email" id="contactEmail" placeholder="your@email.com">
+          </div>
+          <div class="form-group">
+            <label for="contactInput">Message</label>
+            <textarea id="contactInput" placeholder="How can we help you?"></textarea>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary" id="cancelContact">Cancel</button>
+          <button class="btn-primary" id="sendContact">Send Message</button>
+        </div>
+      </div>
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
